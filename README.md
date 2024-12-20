@@ -9,7 +9,7 @@ The code utilizes various libraries for data manipulation, machine learning, and
 - [Code Structure](#code-structure)
 - [Functions](#functions)
 - [Results](#results)
-- 
+  
 ## Requirements 
 Ensure you have the following libraries installed:
 - `numpy`
