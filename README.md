@@ -36,7 +36,9 @@ You can install the required libraries using pip:
  - `--s`: The learning rate (default: 1)
  - `--depth`: The depth of the Tsetlin Machine (default: 2)
  - `--hypervector-size`: Size of the hypervector (default: 64)
- - `--hypervector-bits`: Number of bits in the hypervector (default: 2) - `--message-size`: Size of the message (default: 64) - `--message-bits`: Number of bits in the message (default: 2) 
+ - `--hypervector-bits`: Number of bits in the hypervector (default: 2)
+ - `--message-size`: Size of the message (default: 64)
+ - `--message-bits`: Number of bits in the message (default: 2) 
  - `--double-hashing`: Enable double hashing (default: False)
  - `--max-included-literals`: Maximum number of included literals (default: 32)
  
